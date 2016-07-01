@@ -16,7 +16,6 @@ Name=Feed The Beast
 Exec=ftb
 Icon=minecraft
 StartupNotify=true
-Terminal=true
 Type=Application
 Categories=Games
 " > ftb.desktop

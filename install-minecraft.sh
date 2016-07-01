@@ -16,7 +16,6 @@ Name=Minecraft
 Exec=minecraft
 Icon=minecraft
 StartupNotify=true
-Terminal=true
 Type=Application
 Categories=Games
 " > minecraft.desktop
